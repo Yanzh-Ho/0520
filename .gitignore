@@ -1,2 +1,7 @@
 # Windows Zone.Identifier metadata files
 *:Zone.Identifier
+
+# SAM build artifacts
+.aws-sam/
+sam-installation/
+aws-sam-cli-linux-x86_64.zip
